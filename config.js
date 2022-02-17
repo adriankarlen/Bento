@@ -61,7 +61,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
@@ -85,7 +85,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -135,24 +135,24 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'github',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Font Awesome',
+          link: 'https://fontawesome.com/icons',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'devdocs.io',
+          link: 'https://devdocs.io/',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'devhints.io',
+          link: 'https://devhints.io/',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Repos',
+          link: 'https://github.com/adriankarlen',
         },
       ],
     },
@@ -205,24 +205,24 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'github',
-      id: '2',
+      icon: 'music',
+      id: '1',
       links: [
         {
-          name: 'Front',
-          link: 'https://www.reddit.com/r/Frontend/',
+          name: 'Inspirational',
+          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         },
         {
-          name: 'Rust',
-          link: 'https://www.reddit.com/r/rust/',
+          name: 'Classic',
+          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         },
         {
-          name: 'Go',
-          link: 'https://www.reddit.com/r/golang/',
+          name: 'Oldies',
+          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         },
         {
-          name: 'Repos',
-          link: 'https://github.com/migueravila',
+          name: 'Rock',
+          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         },
       ],
     },
